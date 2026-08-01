@@ -1,0 +1,8 @@
+.DS_Store
+
+# Raw AI-chat exports — distilled once into 01-foundation/, never committed
+sources/*
+!sources/README.md
+
+# local scratch
+_to_delete/
